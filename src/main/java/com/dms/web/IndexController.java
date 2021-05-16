@@ -5,6 +5,7 @@ package com.dms.web;
 //import com.jojoldu.book.springboot.service.PostsService;
 //import com.jojoldu.book.springboot.web.dto.PostsResponseDto;
 import com.dms.service.PostsService;
+import com.dms.web.dto.PostsResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -28,6 +29,15 @@ public class IndexController {
 
         return "index";
     }
+
+    @GetMapping("/posts/update/{id}")
+    public String postsUpdate(@PathVariable Long id, Model model) {
+        PostsResponseDto dto = postsService.findById(id);
+        model.addAttribute("post", dto);
+
+        return "posts-update";
+    }
+
 //
 //    @GetMapping("/posts/save")
 //    public String postsSave() {
