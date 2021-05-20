@@ -40,6 +40,7 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-oauth2-client')
     compile('org.springframework.session:spring-session-jdbc')
     testCompile("org.springframework.security:spring-security-test")
+    compile("org.mariadb.jdbc:mariadb-java-client")
 }
 // 이거 없어야 함! junit4를 쓰면, build.gradle에 해당 설정값은 없어야 gradle test 통과함.
 //test {
