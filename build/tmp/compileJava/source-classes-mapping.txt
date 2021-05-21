@@ -36,11 +36,11 @@ com/dms/config/auth/LoginUserArgumentResolver.java
  com.dms.config.auth.LoginUserArgumentResolver
 com/dms/config/auth/dto/SessionUser.java
  com.dms.config.auth.dto.SessionUser
+com/dms/config/JpaConfig.java
+ com.dms.config.JpaConfig
 com/dms/config/auth/dto/OAuthAttributes.java
  com.dms.config.auth.dto.OAuthAttributes
  com.dms.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
-com/dms/config/JpaConfig.java
- com.dms.config.JpaConfig
 com/dms/domain/posts/PostsRepository.java
  com.dms.domain.posts.PostsRepository
 com/dms/web/dto/HelloResponseDto.java
