@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REPOSITORY=/home/ec2-user/app/step1
-PROJECT_NAME=SpringBoot_AWS_Practice_Project
+PROJECT_NAME=SpringPractice-webservice
 
 cd $REPOSITORY/$PROJECT_NAME
 
