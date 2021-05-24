@@ -53,3 +53,5 @@ com/dms/service/PostsService.java
  com.dms.service.PostsService
 com/dms/web/PostsApiController.java
  com.dms.web.PostsApiController
+com/dms/web/ProfileController.java
+ com.dms.web.ProfileController

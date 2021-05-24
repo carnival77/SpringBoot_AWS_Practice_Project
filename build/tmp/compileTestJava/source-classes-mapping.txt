@@ -8,3 +8,7 @@ com/dms/web/IndexControllerTest.java
  com.dms.web.IndexControllerTest
 com/dms/web/HelloControllerTest.java
  com.dms.web.HelloControllerTest
+com/dms/web/ProfileControllerUnitTest.java
+ com.dms.web.ProfileControllerUnitTest
+com/dms/web/ProfileControllerTest.java
+ com.dms.web.ProfileControllerTest
