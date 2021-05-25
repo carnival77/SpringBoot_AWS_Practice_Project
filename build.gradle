@@ -24,7 +24,7 @@ plugins { // (1)
 }
 
 group 'com.ex'
-version '1.0.1-SNAPSHOT'
+version '1.0.4-SNAPSHOT-'+new Date().format("yyyyMMddHHmmss")
 
 // 블로그 최신 버젼 수정
 sourceCompatibility = 1.8

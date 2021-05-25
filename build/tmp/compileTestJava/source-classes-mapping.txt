@@ -2,13 +2,13 @@ com/dms/web/dto/HelloResponseDtoTest.java
  com.dms.web.dto.HelloResponseDtoTest
 com/dms/web/PostsApiControllerTest.java
  com.dms.web.PostsApiControllerTest
+com/dms/web/ProfileControllerUnitTest.java
+ com.dms.web.ProfileControllerUnitTest
 com/dms/domain/posts/PostsRepositoryTest.java
  com.dms.domain.posts.PostsRepositoryTest
 com/dms/web/IndexControllerTest.java
  com.dms.web.IndexControllerTest
-com/dms/web/HelloControllerTest.java
- com.dms.web.HelloControllerTest
-com/dms/web/ProfileControllerUnitTest.java
- com.dms.web.ProfileControllerUnitTest
 com/dms/web/ProfileControllerTest.java
  com.dms.web.ProfileControllerTest
+com/dms/web/HelloControllerTest.java
+ com.dms.web.HelloControllerTest
