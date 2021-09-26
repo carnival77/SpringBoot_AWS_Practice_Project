@@ -10,7 +10,7 @@ Stack : IntelliJ, JPA, JUnit Test, Gradle, SNS Login(Google, Naver), AWS infra
 ![image](https://user-images.githubusercontent.com/52997401/128632576-2b657565-46f4-4760-bb4e-c137fa05d75a.png)
 ![image](https://user-images.githubusercontent.com/52997401/128632673-5e4c009b-1b9a-4f0f-a9ae-34a30481d3a6.png)
 ![image](https://user-images.githubusercontent.com/52997401/134811244-446b5ea0-51fe-482e-8072-3b49a28b0d4a.png)
-![image](https://user-images.githubusercontent.com/52997401/134811528-72a4dee7-81db-4b42-beb8-6b088a771268.png)
+![image](https://user-images.githubusercontent.com/52997401/134811541-c37d8a4e-7365-4dac-8ecf-b0cb08476292.png)
 
 
 
