@@ -16,7 +16,7 @@ repositories {
     jcenter()
 }
 
-/
+
 // 이거 없어야 함! junit4를 쓰면, build.gradle에 해당 설정값은 없어야 gradle test 통과함.
 //test {
 //    useJUnitPlatform()
